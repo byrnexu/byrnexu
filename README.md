@@ -1,4 +1,4 @@
 - 😄 Hi, I’m byrnexu
-- 👀 I live in Shanghai, China and have a happy family..
+- 👀 I am in China and have a happy family..
 - 💞️ I like programming.
 - 📫 Hope you guys enjoy my project, thanks!
