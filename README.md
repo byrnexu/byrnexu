@@ -4,6 +4,6 @@
 
 Welcome to my studio where I make bugs.
 - 🔭 &nbsp;I’m currently working on something cool. 😉
-- 💞️ I am byrnexu, I live in Shanghai and have a happy family.
+- 💞️ I'm byrnexu, I live in Shanghai, China, and I have a happy family.
 - 📫 I like programming and reading books.
 - 👀 Hope you guys enjoy my project, thanks!
