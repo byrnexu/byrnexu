@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="255" />
 
 Welcome to my studio where I make bugs.
-- 🔭 &nbsp; Working on something exciting – stay tuned! 😉
+- 🔭 &nbsp;Working on something exciting – stay tuned! 😉
 - 💞️ My name is Byrnexu. I reside in Shanghai, China, with my loving family.
 - 📫 Passionate about programming and an avid reader.
 - 👀 Hope you guys enjoy my project, thanks!
